@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 var prefix = ("*");
 
 bot.on('ready', function() {
-	bot.user.setGame("Dev Bot !help");
+	bot.user.setGame("Orion By Hawks");
 	console.log("Connect -> ok _l7");
 });
 
